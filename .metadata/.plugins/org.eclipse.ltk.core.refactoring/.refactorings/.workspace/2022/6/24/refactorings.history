@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;one_to_one&apos; to &apos;one_to_one_uni_directional&apos;&#x0D;&#x0A;- Original element: &apos;one_to_one&apos;&#x0D;&#x0A;- Renamed element: &apos;one_to_one&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;one_to_one&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=one_to_one" name="one_to_one_uni_directional" references="true" stamp="1654510170009" version="1.0"/>
+</session>
